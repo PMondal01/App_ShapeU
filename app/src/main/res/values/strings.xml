@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">Shape_U</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+    //BodyShape
+    <string name="meso">\n \n
+
+The three different body types are: ectomorph, endomorph, mesomorph. Each has their own typical characteristics that can help you determine which body type you have. Then you will be able to adjust your training and eating habits accordingly to reach your fitness goals. \n \n
+
+Mesomorph Body Type \n \n
+
+Middle of the body types \n \n
+
+Can be lean and muscular simultaneously \n \n
+
+Natural athletics build with well-defined muscles \n \n
+
+
+
+Training: \n \n
+
+In between ectomorph and endomorph is the mesomorph body type. Mesomorphs find it easier to build muscle and lose fat than the ectomorphs and endomorphs respectively. \n \n
+
+
+
+This is why the mesomorph body type means that you do not have to go insanely heavy on the weights to get results. You can lift moderately and still progress. \n \n
+
+
+
+However, it is also best to include some aerobic exercise as well, because while they can lose fat easier than mesomorphs, it doesn’t mean that they are completely immune. Aerobic exercise with help get your heart rate up and your blood pumping. \n \n
+
+
+
+Nutrition: \n \n
+
+If you have a mesomorph body type, your eating plan should include equal amounts of protein and fat, with a moderate amount of carbs making up the rest. Like I mentioned with the ectomorph and endomorph body type, you should still focus on complex carbs to help give your body energy and keep full in a sustainable and healthy way. \n \n
+
+
+
+Can You Be a Combination of Two Body Types? \n \n
+
+When it comes to these three different body types, there is no one-size-fits-all. You can be a combination of two, sharing characteristics from both. Hopefully, this post has given you the information you can use to help identify your body type or see if you share traits from two. This way, you will be able to adjust your diet and training regime accordingly to optimize results. \n \n</string>
+    <string name="endo">\n \n
+
+The three different body types are: ectomorph, endomorph, mesomorph. Each has their own typical characteristics that can help you determine which body type you have. Then you will be able to adjust your training and eating habits accordingly to reach your fitness goals. \n \n
+
+
+ENDOMORPH BODY TYPE \n \n
+
+Stocky build \n \n
+
+        Wider body \n \n
+
+
+Stores fuel (both muscle and fat) in the lower half of their bodies \n \n
+
+
+Has more muscle as well but usually, this comes with more fat \n \n
+
+
+Has the best strength advantage out of the three different body types but may find it difficult to stay lean \n \n
+
+
+Slow metabolism \n \n
+
+
+
+
+
+
+Training: \n \n
+
+
+To help shock the body into losing fat, it is best for endomorphs to up their intense aerobic exercise by focusing on interval training such as HIIT (high-intensity interval training) over LISS (low-intensity steady state cardio). \n \n
+
+
+
+
+They should train their overall body to see results and not just focus on one area. \n \n
+
+
+
+
+To further enhance their metabolism, endomorphs should include both hypertrophy (muscle building – heavy weight, fewer reps) with conditioning. This way, your metabolism will be fired up, even hours after your training is done. \n \n
+
+
+
+
+Nutrition: \n \n
+
+
+Endomorphs do need to have a stricter eating plan than the others. Unlike ectomorphs, those with the endomorph body type should eat fewer carbs and increase their higher protein intake. They should avoid simple carbs like white bread and eat more complex ones. \n \n
+
+
+
+
+Notes: \n \n
+
+
+Stress levels can cause endomorphs to keep fat around their midsection. To help with this, you should avoid overtraining so that your body can properly recover. Also, get your beauty sleep. \n \n
+
+</string>
+    <string name="ectomorph">
+
+       \n
+The three different body types are: ectomorph, endomorph, mesomorph. Each has their own typical characteristics that can help you determine which body type you have. Then you will be able to adjust your training and eating habits accordingly to reach your fitness goals.\n  \n
+
+ECTOMORPH Body Type:\n \n
+Long and lean \n \n
+
+Delicate frame \n \n
+
+“Hard Gainer” – Finds it difficult to build muscle and fat \n \n
+
+Body similar to a marathon runner \n \n
+
+Fast metabolism \n \n
+
+Training: \n \n
+
+If you have the ectomorph body type, then you will find that it is difficult for you to gain muscle as well as fat. To help with this, try focusing on compound movements as opposed to isolated movements. This is because you will use more muscle groups in the one exercise. \n \n
+
+
+
+For example, the bench press works out muscles in your chest, shoulders and triceps using your shoulders and elbow. In contrast, the bicep curl is an isolated movement that only uses the bicep. \n \n
+
+
+
+While you shouldn’t completely shun isolation movements from your training, your main focus should be on the big compound exercises. Then use isolation movements as accessories or to finish a workout. \n \n
+
+
+
+Nutrition: \n \n
+
+Those with the ectomorph body type are able to get away with eating more carbs than endomorphs and mesomorphs. However, this doesn’t mean that you can eat whatever you want and not have it affect your body. \n \n
+
+
+
+That being said, it is best to stick to complex carbs that can leave you feeling fuller for longer. It will also help to push protein to your muscles to help them to grow. This includes brown rice and brown bread. \n \n
+
+
+
+Notes:
+
+As ectomorphs can find it quite challenging to pack on size, it may be beneficial to use additional supplements in conjunction with a healthy and well-rounded diet. Supplements such as BCAAs or protein shakes could give you that extra boost. \n \n
+
+
+
+
+
+
+
+
+
+
+
+
+    </string>
+
+    <string name="body_shape">THE THREE DIFFERENT BODY TYPES
+</string>
+
+
+
+    <string name="ecto">If you have the ectomorph body type, then you will find that it is difficult
+for you to gain muscle as well as fat. To help with this, try focusing on
+compound movements as opposedto isolated movements. This is because
+you will use more muscle groups in the one exercise.ECTOMORPH</string>
+
+
+    <string name="swim">“I was always a chubby girl from my teenage years. \n After graduation, I met the love of my life and got married. \n It was then when I got pregnant and gained over 100 pounds."</string>
+    <string name="cheer">"Finally, comes the core strength training which is extremely effective in getting perfect abs in less than six weeks of time. \n Performing crunches works best on the upper abs, but at the same time, the lower abs and oblique should be strengthened which can be done with the leg – lifts."</string>
+    <string name="basketball">"He believes that people of all ages and capabilities can benefit from exercise.\n He is willing to help anyone who wants to reach a certain fitness level with hard work since there is no shortcut to wellness."</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

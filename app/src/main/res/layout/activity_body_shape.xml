@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BodyShape"
+    android:orientation="vertical"
+    android:background="#110101">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/body"
+        android:scaleType="fitXY"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Body Shape"
+        android:textSize="45dp"
+        android:background="@color/yellow"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="230dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/body_shape"
+            android:textSize="20dp"
+            android:textColor="@color/yellow"
+            android:gravity="center"
+            android:padding="5dp"/>
+
+
+        <Button
+            android:id="@+id/ecto"
+            android:layout_gravity="center"
+            android:layout_width="400dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp"
+            android:drawableRight="@drawable/ecto"
+            android:background="#ECD9A1"
+            android:text="ECTOMORPH"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:id="@+id/meso"
+            android:layout_gravity="center"
+            android:layout_width="400dp"
+            android:layout_height="100dp"
+            android:drawableRight="@drawable/meso"
+            android:background="#ECD9A1"
+            android:text="MESOMORPH"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            />
+
+
+        <Button
+            android:id="@+id/endo"
+            android:layout_gravity="center"
+            android:layout_width="400dp"
+            android:layout_height="100dp"
+            android:drawableRight="@drawable/endo"
+            android:background="#ECD9A1"
+            android:text="ENDOMORPH"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+
+
+
+            />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>
+
+
+
+
+
+
+   <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:background="#FBB040"
+        android:gravity="center"
+
+        >
+
+        <Button
+            android:id="@+id/home"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/home"
+            />
+
+        <Button
+            android:id="@+id/menu"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/menu"
+
+            />
+
+        <Button
+            android:id="@+id/settings"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/settings" />
+
+        <Button
+            android:id="@+id/contact"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/contact"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

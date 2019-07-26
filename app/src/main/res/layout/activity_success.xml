@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.viewpager.widget.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SuccessStory"
+    android:id="@+id/viewpager_price">
+
+
+    <androidx.viewpager.widget.PagerTabStrip
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFC100"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:id="@+id/titleBar_price"
+        >
+
+    </androidx.viewpager.widget.PagerTabStrip>
+
+</androidx.viewpager.widget.ViewPager>
