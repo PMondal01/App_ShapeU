@@ -18,6 +18,8 @@ public class BodyShape extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_body_shape);
 
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
         ecto_btn=findViewById(R.id.ecto);
         endo_btn=findViewById(R.id.endo);
         meso_btn=findViewById(R.id.meso);

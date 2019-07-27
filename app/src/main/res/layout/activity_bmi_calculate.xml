@@ -1,9 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".BmiCalculate">
+    tools:context=".BmiCalculate"
+    android:orientation="vertical"
+    android:background="#F1EBD9">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/body"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Find Your BMI"
+        android:background="@color/yellow"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"
+        />
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="265dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:background="@color/black"
+        android:orientation="vertical"
+        android:padding="10dp"
+        >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter your weight (kg)"
+        android:textSize="15sp"
+        android:textColor="@color/yellow"
+        android:textStyle="bold"
+        android:layout_marginTop="50dp"
+
+
+        />
+    <EditText
+        android:id="@+id/et_weight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/yellow"
+        android:textColor="@color/yellow"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter your height (cm)"
+        android:layout_marginTop="30dp"
+        android:textSize="15sp"
+        android:textColor="@color/yellow"
+        android:textStyle="bold"/>
+    <EditText
+        android:id="@+id/et_height"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/yellow"
+        android:backgroundTint="@color/yellow"
+        android:textColor="@color/yellow"/>
+
+
+
+
+
+    <Button
+        android:id="@+id/btn_calculate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RESULT"
+        android:layout_gravity="center"
+        android:background="@color/yellow"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        />
+
+
+        >
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:background="@color/yellow"
+        android:gravity="center"
+
+        >
+
+        <Button
+            android:id="@+id/home"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/home"
+            />
+
+        <Button
+            android:id="@+id/menu"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/menu"
+
+            />
+
+        <Button
+            android:id="@+id/settings"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/settings" />
+
+        <Button
+            android:id="@+id/contact"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/contact"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

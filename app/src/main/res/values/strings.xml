@@ -15,6 +15,56 @@
     <string name="menu_send">Send</string>
 
 
+    <string name="blog_three">
+        \n 1. Gear up. Get the right shoes, some inov-8s or nano’s, a speed rope,
+wrist wraps, and quality workout clothes.
+–
+\n 2. Lift heavy weights regularly. Don’t just stay in comfortable 70%
+zones. Push your limit.
+–
+\n 3. Use a spotter and FAIL. If you aren’t missing reps, you aren’t training
+hard enough. Period.
+—
+ \n 4. Work mobility A LOT. Before, During, After.
+—
+\n 5. Take your training seriously. Always strive to become better.
+—
+\n 6. In the same breath Don’t over take your training too seriously. Give
+yourself a break once in awhile.
+—
+\n 7. Train with and learn from others. It’s just better.
+—
+\n 8. Show up no matter what. If you aren’t in the mood, here’s what you
+do. First: Walk to your car and drive to the Gym. Second: Figure the
+rest out later.
+—
+\n 9. Fast before you train. ‘The idea that we “need” to consume calories
+before, during, or after training, is bullshit hype pushed on us from the
+bodybuilding and supplement industries.
+—
+\n When you switch your metabolism over to training without food, you
+will PB more often and feel better in general. And you’ll want to send
+me a thank you card… you’re welcome</string>
+
+
+    <string name="blog_two">– Anyone You Deem Successful Is Just Dealing With And Overcoming
+Obstacles Better Than You \n Everything worth achieving in life takes
+work,desire, dedication and consistency and that doesn’t change no
+matter who you are. \n Every journey has endless and relentless obstacle
+andchallenges.\n Again there’s no differey for anyone.\n So quit thinking
+luckand chance are big reasons for success. Luck is just opportunity
+meeting preparation!!</string>
+
+
+    <string name="blog">Being a massive pile of muscle is not so attractive as it once was.. and now if your under 80kg and in pretty decent shape, most people will just say your skinny 😅..
+—
+\n Lean Bulking is the ideal Adonis condition to be in.. this includes:\n
+–
+\n Competitive Swimmer/Sprinter type physique and condition.
+\n Over all full body aesthetic\n Proportion and Size.
+\n  Full rounded muscles.</string>
+
+
     //BodyShape
     <string name="meso">\n \n
 
@@ -172,7 +222,6 @@ As ectomorphs can find it quite challenging to pack on size, it may be beneficia
 
     <string name="body_shape">THE THREE DIFFERENT BODY TYPES
 </string>
-
 
 
     <string name="ecto">If you have the ectomorph body type, then you will find that it is difficult
