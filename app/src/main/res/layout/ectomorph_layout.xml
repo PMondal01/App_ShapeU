@@ -4,7 +4,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#CEE5E3F5"
+    android:background="#FDFAF0"
     >
 
     <ImageView
@@ -18,12 +18,12 @@
     />
 
     <LinearLayout
-        android:layout_width="250dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/yellow"
         android:layout_gravity="center"
         android:padding="10dp"
-        android:layout_marginTop="5dp"
+        android:layout_marginTop="20dp"
 
         >
 
@@ -36,22 +36,22 @@
             android:padding="5dp"
             android:textAlignment="center"
             android:textColor="@color/black"
+
         />
 
     </LinearLayout>
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="180dp"
+        android:layout_height="wrap_content"
         android:layout_marginLeft="15dp"
-        android:layout_marginTop="5dp"
+        android:layout_marginTop="20dp"
         android:layout_marginRight="15dp"
         android:background="@color/black">
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:padding="10dp"
+            android:layout_height="180dp"
             android:text="@string/ectomorph"
             android:textAlignment="center"
             android:textColor="#F7F6F3"
@@ -59,7 +59,7 @@
             android:textStyle="bold" />
     </ScrollView>
 
-    <LinearLayout
+   <!-- <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_gravity="center"
@@ -95,7 +95,7 @@
             android:layout_height="match_parent"
             android:background="@drawable/contact"/>
 
-    </LinearLayout>
+    </LinearLayout>-->
 
 
 
